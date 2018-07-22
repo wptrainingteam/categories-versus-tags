@@ -101,17 +101,10 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Lesson Overview
 
-* First do this
-* Then move on to this
-* Finish with this
-
-> The plan for the lesson. Outline form works well.
->
-> _For example:_
->
-> * Talk about what a theme is
-> * Demonstrate how to install and activate a theme
-> * Practice exercises to have participants find and install a theme on their own site
+* Presentation on the definitions and differences between categories and tags
+* Demonstrate how to create and manage Categories
+* Demonstrate how to create and manage Tags
+* Exercises on category and tag clouds
 
 ## Exercises
 
