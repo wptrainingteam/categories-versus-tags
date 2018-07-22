@@ -38,11 +38,11 @@ How much experience would a participant need to get the most from this lesson?
 
 Which strategies will be used for this lesson plan? Choose all that apply.
 
-* [ ] Demonstration
+* [x] Demonstration
 * [ ] Discussion
 * [x] Exercises
 * [ ] Feedback
-* [ ] Lecture (Presentation)
+* [x] Lecture (Presentation)
 * [ ] Show & Tell
 * [ ] Tutorial
 
