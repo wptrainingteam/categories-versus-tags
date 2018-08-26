@@ -66,7 +66,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 *   Are you able to log in to WordPress as an administrator?
 *   Are you familiar with using the WordPress dashboard?
-*   Can you differentiate Pages and Posts?
+*   Do you know the difference between Pages and Posts?
 *   Can you create and edit Posts?
 *   Can you add a widget to the sidebar?
 
@@ -95,7 +95,7 @@ Participants will get the most from this lesson if they have familiarity with:
 >
 > *  What if there’s no internet available?
 > *  What if there’s no projector available?
-> *  What if a participant doesn’t has a WordPress site to work with?
+> *  What if a participant doesn’t have a WordPress site to work with?
 > *  What if there aren’t enough computers for everyone?
 > *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
 
@@ -165,7 +165,7 @@ Create at least six tags that will be used for a tag cloud. Update ten posts usi
 
 **What is a slug for a category or tag?**
 
-1.  The storage area for it's posts
+1.  The storage area for its posts
 2.  An instant application button
 3.  An alternative spelling to redirect typos
 4.  The portion of the URL representing its name
@@ -207,7 +207,7 @@ WordPress has two built-in taxonomies for managing content: categories and tags.
 
 Categories offer a way to sort and group posts into different sections. They tend to be pre-defined and broad ranging. A category is a descriptive word or phrase used as a text label for a group of posts. Categories may have subcategories, which allows for creating a hierarchy of category terms. WordPress considers posts in subcategories to also be members of their parent categories, so subcategories are more specific terms within a parent category.
 
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png) A post may have more than one category applied, but it's best to restrict posts to a single category. Multiple categories for single posts tends to clutter the organization of content and may confuse readers. Tags are a better means of providing additional groupings and relationships between posts.
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png) A post may have more than one category applied, but it's best to restrict posts to a single category. Using multiple categories for single posts tends to clutter the organization of content and may confuse readers. Tags are a better means of providing additional groupings and relationships between posts.
 
 #### Tags
 
@@ -273,7 +273,7 @@ The Twenty Sixteen theme displays Animals as the page title using the category n
 
 ##### Subcategories
 
-Now add two new subcategories for the Animals category. To create a subcategory, set the "Parent" field for the child category as follows:
+Now add three new subcategories for the Animals category. To create a subcategory, set the "Parent" field for the child category as follows:
 
 *   **Name**: Domestic Cats
 *   **Parent**: Animals
@@ -282,14 +282,14 @@ Now add two new subcategories for the Animals category. To create a subcategory,
 
 *   **Name**: Felines
 *   **Parent**: Animals
-*   **Description**: The entire Felidaebiological classification of wild and domestic cats.
+*   **Description**: The entire Felidae-biological classification of wild and domestic cats.
 
 
 *   **Name**: Big Cats
 *   **Parent**: Animals
 *   **Description**: We love photos of both big cats in the wild and in zoos.
 
-Notice that the order in which you enter new categories doesn't affect the order of items in the categories list, as they are placed in a logical sort order that can be adjusted. When you click on "Name" column heading, the subcategories move down into flat alphabetical order and do not appear under their parent category. Then, if you click on "Categories" in the main "Dashboard" menu, the subcategories appear under their parents in a alphabetical order.
+Notice that the order in which you enter new categories doesn't affect the order of items in the categories list, as they are placed in a logical sort order that can be adjusted. When you click on "Name" column heading, the subcategories move down into flat alphabetical order and do not appear under their parent category. Then, if you click on "Categories" in the main "Dashboard" menu, the subcategories appear under their parents in an alphabetical order.
 
 ![Categories list with subcategories](/images/categories-list-ordered.png)
 
